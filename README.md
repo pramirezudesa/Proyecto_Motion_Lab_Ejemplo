@@ -49,11 +49,11 @@ El proyecto sigue una arquitectura modular para garantizar la escalabilidad y fa
 
 
 
-&#x20; \* \*\*Carga Robusta:\*\* Importación de datos desde formatos CSV con manejo de errores.
+*Carga Robusta:* Importación de datos desde formatos CSV con manejo de errores.
 
-&#x20; \* \*\*Validación de Datos:\*\* Filtros automáticos para descartar registros corruptos o fuera de rango.
+*Validación de Datos:* Filtros automáticos para descartar registros corruptos o fuera de rango.
 
-&#x20; \* \*\*Motor de Métricas:\*\*
+*Motor de Métricas:*
 
 &#x20;     \* Cálculo de \*\*Hits Totales\*\*.
 
@@ -97,21 +97,20 @@ MotionLab/
 
 1\.  Clona este repositorio:
 
-&#x20;   ```
 
 &#x20;   git clone https://github.com/tu-usuario/MotionLab.git
 
-&#x20;   ```
+
 
 2\.  Asegúrate de tener Python 3.x instalado.
 
 3\.  Ejecuta el análisis principal:
 
-&#x20;   ```
+
 
 &#x20;   python main.py
 
-&#x20;   ```
+
 
 
 
@@ -145,9 +144,9 @@ Este proyecto se basa en paradigmas establecidos de control motor, tales como:
 
 
 
-&#x20; \* \*Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement.\*
+*Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement.*
 
-&#x20; \* \*Welford, A. T. (1968). Fundamentals of Skill.\*
+*Welford, A. T. (1968). Fundamentals of Skill.*
 
 
 
