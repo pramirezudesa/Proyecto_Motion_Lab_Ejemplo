@@ -6,7 +6,6 @@ Este proyecto es usado de ejemplo como docente de la lic en ciencias del comport
 
 
 
-\-----
 
 
 
@@ -18,7 +17,7 @@ Este proyecto es usado de ejemplo como docente de la lic en ciencias del comport
 
 
 
-\*\*MotionLab\*\* es un sistema desarrollado para procesar y analizar datos provenientes de experimentos de \*\*coordinación visomotora\*\*. El objetivo principal es evaluar cómo diferentes condiciones experimentales (como la competencia o la cooperación) afectan la precisión del movimiento humano y el tiempo de respuesta.
+*MotionLab* es un sistema desarrollado para procesar y analizar datos provenientes de experimentos de \*\*coordinación visomotora\*\*. El objetivo principal es evaluar cómo diferentes condiciones experimentales (como la competencia o la cooperación) afectan la precisión del movimiento humano y el tiempo de respuesta.
 
 
 
