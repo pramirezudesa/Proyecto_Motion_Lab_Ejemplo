@@ -55,9 +55,9 @@ El proyecto sigue una arquitectura modular para garantizar la escalabilidad y fa
 
 *Motor de Métricas:*
 
-&#x20;     \* Cálculo de \*\*Hits Totales\*\*.
+&#x20;     \* Cálculo de Hits Totales.
 
-&#x20;     \* Detección del \*\*Tiempo al Primer Hit\*\* (Latencia).
+&#x20;     \* Detección del Tiempo al Primer Hit (Latencia).
 
 &#x20;     \* Análisis opcional por bloques temporales para ver la curva de aprendizaje.
 
@@ -98,8 +98,7 @@ MotionLab/
 1\.  Clona este repositorio:
 
 
-&#x20;   git clone https://github.com/tu-usuario/MotionLab.git
-
+&#x20;   git clone https://github.com/pramirezudesa/Proyecto_Motion_Lab_Ejemplo
 
 
 2\.  Asegúrate de tener Python 3.x instalado.
