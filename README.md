@@ -10,11 +10,11 @@ Este proyecto es usado de ejemplo como docente de la lic en ciencias del comport
 
 
 
-\# MotionLab: Análisis de Control Motor y Precisión
+## MotionLab: Análisis de Control Motor y Precisión
 
 
 
-\## 📌 Sobre el Proyecto
+### 📌 Sobre el Proyecto
 
 
 
@@ -26,7 +26,7 @@ Este software permite transformar datos crudos de coordenadas espaciales y event
 
 
 
-\## 🧪 El Experimento
+### 🧪 El Experimento
 
 
 
@@ -42,7 +42,7 @@ En la tarea de MotionLab, los participantes deben interactuar con estímulos en 
 
 
 
-\## 🚀 Características del Sistema
+### 🚀 Características del Sistema
 
 
 
@@ -64,7 +64,7 @@ El proyecto sigue una arquitectura \*\*modular\*\* para garantizar la escalabili
 
 
 
-\## 📁 Estructura del Repositorio
+### 📁 Estructura del Repositorio
 
 
 
@@ -92,13 +92,13 @@ MotionLab/
 
 
 
-\## 🛠️ Instalación y Uso
+### 🛠️ Instalación y Uso
 
 
 
 1\.  Clona este repositorio:
 
-&#x20;   ```bash
+&#x20;   ```
 
 &#x20;   git clone https://github.com/tu-usuario/MotionLab.git
 
@@ -108,7 +108,7 @@ MotionLab/
 
 3\.  Ejecuta el análisis principal:
 
-&#x20;   ```bash
+&#x20;   ```
 
 &#x20;   python main.py
 
@@ -116,7 +116,7 @@ MotionLab/
 
 
 
-\## 📊 Ejemplo de Salida
+### 📊 Ejemplo de Salida
 
 
 
@@ -138,7 +138,7 @@ ID       | HITS   | 1er HIT    | CONDICIÓN
 
 
 
-\## 🧠 Referencias Científicas
+### 🧠 Referencias Científicas
 
 
 
