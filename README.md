@@ -2,7 +2,7 @@
 
 
 
-Este proyecto es usado de ejemplo como docente de la lic en ciencias del comportamiento.
+Este proyecto es usado de ejemplo para mostrar en clase de la lic en ciencias del comportamiento.
 
 
 
