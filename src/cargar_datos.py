@@ -1,14 +1,15 @@
 def parsear_linea(linea):
     """
-    Qué hace la función: Separa una línea de texto CSV en una lista de strings.
+    Separa una línea de texto CSV en una lista de strings.
     Parámetros: linea (str)
     Retorna: list[str]
     """
-    return linea.strip().split(',')
+    return linea.strip().split(",")
+
 
 def cargar_datos(ruta):
     """
-    Qué hace la función: Lee el archivo y genera una lista de registros (diccionarios).
+    Lee el archivo CSV y genera una lista de registros (diccionarios)
     Parámetros: ruta (str)
     Retorna: list[dict]
     """
@@ -19,9 +20,12 @@ def cargar_datos(ruta):
                 campos = parsear_linea(linea)
                 if len(campos) >= 6 and campos[0] != "":
                     reg = {
-                        "id": campos[0], "tiempo": campos[1],
-                        "x": campos[2], "y": campos[3],
-                        "hit": campos[4], "condicion": campos[5]
+                        "id_participante": campos[0],
+                        "tiempo": campos[1],
+                        "x": campos[2],
+                        "y": campos[3],
+                        "hit": campos[4],
+                        "condicion": campos[5],
                     }
                     registros.append(reg)
     except FileNotFoundError:
