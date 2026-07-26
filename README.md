@@ -2,7 +2,7 @@
 
 
 
-Este proyecto es usado de ejemplo para mostrar en clase de la lic en ciencias del comportamiento.
+Este proyecto es usado de ejemplo para mostrar en clase de la Lic en Ciencias del Comportamiento durante la clase de Validación y Manejo de Errores.
 
 
 
